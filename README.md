@@ -7,9 +7,9 @@ This repository now includes ready-to-share WhatsApp link assets (separate direc
 ## WhatsApp assets
 
 - Direct WhatsApp link (for copy/paste in posts/messages):
-  - `https://wa.me/972506567045`
+  - `https://wa.me/972506074287`
 - QR image generation link (1080x1080, suitable for social/web use):
-  - `https://api.qrserver.com/v1/create-qr-code/?size=1080x1080&data=https%3A%2F%2Fwa.me%2F972506567045`
+  - `https://api.qrserver.com/v1/create-qr-code/?size=1080x1080&data=https%3A%2F%2Fwa.me%2F972506074287`
 
 ## Files
 
@@ -20,5 +20,5 @@ This repository now includes ready-to-share WhatsApp link assets (separate direc
 ## Hebrew quick note
 
 סידרתי בנפרד:
-- קישור וואטסאפ ישיר לשיתוף: `https://wa.me/972506567045`
-- קישור לברקוד (QR) מוכן לרשתות/ווב (לא PDF): `https://api.qrserver.com/v1/create-qr-code/?size=1080x1080&data=https%3A%2F%2Fwa.me%2F972506567045`
+- קישור וואטסאפ ישיר לשיתוף: `https://wa.me/972506074287`
+- קישור לברקוד (QR) מוכן לרשתות/ווב (לא PDF): `https://api.qrserver.com/v1/create-qr-code/?size=1080x1080&data=https%3A%2F%2Fwa.me%2F972506074287`
